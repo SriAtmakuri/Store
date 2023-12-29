@@ -1,0 +1,11 @@
+C:\Users\test45\source\repos3\FashionStoreAPI\FashionStore.Core\bin\Debug\net6.0\FashionStore.Core.deps.json
+C:\Users\test45\source\repos3\FashionStoreAPI\FashionStore.Core\bin\Debug\net6.0\FashionStore.Core.dll
+C:\Users\test45\source\repos3\FashionStoreAPI\FashionStore.Core\bin\Debug\net6.0\FashionStore.Core.pdb
+C:\Users\test45\source\repos3\FashionStoreAPI\FashionStore.Core\obj\Debug\net6.0\FashionStore.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\test45\source\repos3\FashionStoreAPI\FashionStore.Core\obj\Debug\net6.0\FashionStore.Core.AssemblyInfoInputs.cache
+C:\Users\test45\source\repos3\FashionStoreAPI\FashionStore.Core\obj\Debug\net6.0\FashionStore.Core.AssemblyInfo.cs
+C:\Users\test45\source\repos3\FashionStoreAPI\FashionStore.Core\obj\Debug\net6.0\FashionStore.Core.csproj.CoreCompileInputs.cache
+C:\Users\test45\source\repos3\FashionStoreAPI\FashionStore.Core\obj\Debug\net6.0\FashionStore.Core.dll
+C:\Users\test45\source\repos3\FashionStoreAPI\FashionStore.Core\obj\Debug\net6.0\refint\FashionStore.Core.dll
+C:\Users\test45\source\repos3\FashionStoreAPI\FashionStore.Core\obj\Debug\net6.0\FashionStore.Core.pdb
+C:\Users\test45\source\repos3\FashionStoreAPI\FashionStore.Core\obj\Debug\net6.0\ref\FashionStore.Core.dll

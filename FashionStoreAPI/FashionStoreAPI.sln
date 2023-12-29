@@ -1,0 +1,53 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FashionStoreAPI", "FashionStoreAPI\FashionStoreAPI.csproj", "{865BC73B-2859-40E6-A5C4-077933D08368}"
+	ProjectSection(ProjectDependencies) = postProject
+		{0CC6AB9F-F715-46B9-A670-D55C20EA3D44} = {0CC6AB9F-F715-46B9-A670-D55C20EA3D44}
+		{DF5C7982-CCD1-409D-9264-8B62B2D2DADC} = {DF5C7982-CCD1-409D-9264-8B62B2D2DADC}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FashionStore.Core", "FashionStore.Core\FashionStore.Core.csproj", "{DF5C7982-CCD1-409D-9264-8B62B2D2DADC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FashionStore.Infrastructure", "FashionStore.Infrastructure\FashionStore.Infrastructure.csproj", "{0CC6AB9F-F715-46B9-A670-D55C20EA3D44}"
+	ProjectSection(ProjectDependencies) = postProject
+		{DF5C7982-CCD1-409D-9264-8B62B2D2DADC} = {DF5C7982-CCD1-409D-9264-8B62B2D2DADC}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FashionStore.Tests", "FashionStore.Tests\FashionStore.Tests.csproj", "{F9645734-D23A-4C28-A2C5-A4ED9FAFBADD}"
+	ProjectSection(ProjectDependencies) = postProject
+		{865BC73B-2859-40E6-A5C4-077933D08368} = {865BC73B-2859-40E6-A5C4-077933D08368}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{865BC73B-2859-40E6-A5C4-077933D08368}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{865BC73B-2859-40E6-A5C4-077933D08368}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{865BC73B-2859-40E6-A5C4-077933D08368}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{865BC73B-2859-40E6-A5C4-077933D08368}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF5C7982-CCD1-409D-9264-8B62B2D2DADC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF5C7982-CCD1-409D-9264-8B62B2D2DADC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF5C7982-CCD1-409D-9264-8B62B2D2DADC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF5C7982-CCD1-409D-9264-8B62B2D2DADC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CC6AB9F-F715-46B9-A670-D55C20EA3D44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CC6AB9F-F715-46B9-A670-D55C20EA3D44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CC6AB9F-F715-46B9-A670-D55C20EA3D44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CC6AB9F-F715-46B9-A670-D55C20EA3D44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9645734-D23A-4C28-A2C5-A4ED9FAFBADD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9645734-D23A-4C28-A2C5-A4ED9FAFBADD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9645734-D23A-4C28-A2C5-A4ED9FAFBADD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9645734-D23A-4C28-A2C5-A4ED9FAFBADD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6CC0124D-A632-4D88-B797-86BC1DE6A44E}
+	EndGlobalSection
+EndGlobal

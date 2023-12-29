@@ -1,0 +1,42 @@
+<!-- <table>
+    <tbody>
+      <tr>
+        <td>Countries</td>
+        <td><select id="country" (change)="onCountryChange($event)">
+            <option *ngFor="let country of countries" [value]="country.currencyCode">{{ country.name }}</option>
+          </select></td>
+      </tr>
+    </tbody>
+  </table> -->
+  <h1 class="centerAllign">LIST OF PRODUCTS</h1>
+<div class="table-container">
+    <table class="placeDropDown">
+        <tbody>
+          <tr>
+            <td>Countries</td>
+            <td><select id="country" (change)="onCountryChange($event)">
+                <option *ngFor="let country of countries" [value]="country.currencyCode">{{ country.name }}</option>
+              </select></td>
+          </tr>
+        </tbody>
+      </table>
+    <table class="data-table">
+      <thead>
+        <tr>
+          <th>S.No</th>
+          <th>Name</th>
+          <th>Description</th>
+          <th>Price</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let product of products">
+          <td>{{ product.productId }}</td>
+          <td>{{ product.name }}</td>
+          <td>{{ product.description }}</td>
+          
+          <td>{{ product.price | currency: product.rateSymbol}}</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>

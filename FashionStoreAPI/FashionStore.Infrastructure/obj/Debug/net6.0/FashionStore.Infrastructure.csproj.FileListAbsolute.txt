@@ -1,0 +1,17 @@
+C:\Users\test45\source\repos3\FashionStoreAPI\FashionStore.Infrastructure\bin\Debug\net6.0\FashionStore.Infrastructure.deps.json
+C:\Users\test45\source\repos3\FashionStoreAPI\FashionStore.Infrastructure\bin\Debug\net6.0\FashionStore.Infrastructure.dll
+C:\Users\test45\source\repos3\FashionStoreAPI\FashionStore.Infrastructure\bin\Debug\net6.0\FashionStore.Infrastructure.pdb
+C:\Users\test45\source\repos3\FashionStoreAPI\FashionStore.Infrastructure\obj\Debug\net6.0\FashionStore.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\test45\source\repos3\FashionStoreAPI\FashionStore.Infrastructure\obj\Debug\net6.0\FashionStore.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\test45\source\repos3\FashionStoreAPI\FashionStore.Infrastructure\obj\Debug\net6.0\FashionStore.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\test45\source\repos3\FashionStoreAPI\FashionStore.Infrastructure\obj\Debug\net6.0\FashionStore.Infrastructure.AssemblyInfo.cs
+C:\Users\test45\source\repos3\FashionStoreAPI\FashionStore.Infrastructure\obj\Debug\net6.0\FashionStore.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\test45\source\repos3\FashionStoreAPI\FashionStore.Infrastructure\obj\Debug\net6.0\FashionStore.Infrastructure.dll
+C:\Users\test45\source\repos3\FashionStoreAPI\FashionStore.Infrastructure\obj\Debug\net6.0\refint\FashionStore.Infrastructure.dll
+C:\Users\test45\source\repos3\FashionStoreAPI\FashionStore.Infrastructure\obj\Debug\net6.0\FashionStore.Infrastructure.pdb
+C:\Users\test45\source\repos3\FashionStoreAPI\FashionStore.Infrastructure\obj\Debug\net6.0\ref\FashionStore.Infrastructure.dll
+C:\Users\test45\source\repos3\FashionStoreAPI\FashionStore.Infrastructure\bin\Debug\net6.0\FashionStore.Infrastructure.runtimeconfig.json
+C:\Users\test45\source\repos3\FashionStoreAPI\FashionStore.Infrastructure\obj\Debug\net6.0\FashionStore.Infrastructure.genruntimeconfig.cache
+C:\Users\test45\source\repos3\FashionStoreAPI\FashionStore.Infrastructure\bin\Debug\net6.0\FashionStore.Core.dll
+C:\Users\test45\source\repos3\FashionStoreAPI\FashionStore.Infrastructure\bin\Debug\net6.0\FashionStore.Core.pdb
+C:\Users\test45\source\repos3\FashionStoreAPI\FashionStore.Infrastructure\obj\Debug\net6.0\FashionStore.Infrastructure.csproj.CopyComplete
